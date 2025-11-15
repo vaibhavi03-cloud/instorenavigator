@@ -1,0 +1,124 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>In-Store Navigator — Commercial Grade (Blue)</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="app">
+    <header class="topbar">
+      <div class="brand">
+        <div class="logo">🏬</div>
+        <div class="title">
+          <h1 id="ui-title">In-Store Navigator</h1>
+          <div id="ui-sub">Smart Mall • 3 Floors • Voice & Route</div>
+        </div>
+      </div>
+
+      <div class="controls">
+        <select id="langSelect" title="Language">
+          <option value="en">English</option>
+          <option value="hi">हिन्दी</option>
+          <option value="kn">ಕನ್ನಡ</option>
+        </select>
+
+        <select id="floorSelect" title="Floor">
+          <option value="1">Floor 1</option>
+          <option value="2">Floor 2</option>
+          <option value="3">Floor 3</option>
+        </select>
+
+        <button id="loginBtn" class="btn small">Login</button>
+        <a href="shopkeeper.html" class="btn small muted">Shopkeeper</a>
+      </div>
+    </header>
+
+    <main class="layout">
+      <!-- LEFT: Map -->
+      <section class="panel map-panel">
+        <div class="map-header">
+          <div id="mapTitle">Mall Map</div>
+          <div class="map-actions">
+            <button id="toggle3D" class="btn">3D View</button>
+            <button id="enterAR" class="btn">AR Mode</button>
+            <button id="voiceSearchBtn" class="btn">🎙️</button>
+          </div>
+        </div>
+
+        <div class="map-body">
+          <canvas id="mapCanvas"></canvas>
+          <div id="marker" class="marker" aria-hidden="true"></div>
+          <div id="routeOverlay" class="route-overlay" aria-hidden="true"></div>
+        </div>
+
+        <div class="map-footer">
+          <button id="clearRoute" class="btn outline">Clear</button>
+          <button id="routeList" class="btn primary">Route My List</button>
+        </div>
+      </section>
+
+      <!-- CENTER: Tools & Details -->
+      <section class="panel center-panel">
+        <div class="search-row">
+          <input id="searchInput" placeholder="Search items, brand, section..." />
+        </div>
+
+        <div class="filters">
+          <div id="sectionPills" class="pills"></div>
+        </div>
+
+        <div class="detail-card" id="detailCard">
+          <div class="detail-image-wrap"><img id="detailImg" src="https://via.placeholder.com/420x260?text=Select+Item" alt=""></div>
+          <h2 id="detailName">Select an item</h2>
+          <div id="detailBrand" class="muted"></div>
+          <div id="detailPrice" class="price muted"></div>
+          <div id="detailStock" class="muted"></div>
+          <div id="detailFloor" class="muted"></div>
+          <div class="detail-actions">
+            <button id="navNow" class="btn primary">Start Navigation</button>
+            <button id="addToCart" class="btn outline">Add to List</button>
+          </div>
+        </div>
+
+        <div class="help-card">
+          <h4 id="helpTitle">How to use</h4>
+          <ol id="helpList">
+            <li>Choose floor & section (left map shows pins).</li>
+            <li>Select item from the right-side list.</li>
+            <li>Click Start Navigation to follow the animated route.</li>
+          </ol>
+        </div>
+      </section>
+
+      <!-- RIGHT: Items + Shopping List -->
+      <aside class="panel right-panel">
+        <div class="tabs">
+          <button class="tab active" data-tab="all" id="tabAll">All Items</button>
+          <button class="tab" data-tab="list" id="tabList">Shopping List</button>
+        </div>
+
+        <div id="tabContent" class="tab-content">
+          <!-- ALL ITEMS -->
+          <div id="allItems" class="items-grid"></div>
+
+          <!-- SHOPPING LIST -->
+          <div id="shopList" class="shop-list hidden"></div>
+        </div>
+
+        <div class="right-footer">
+          <div class="total">Total: <span id="cartTotal">₹0</span></div>
+          <button id="checkoutBtn" class="btn primary">Checkout (demo)</button>
+        </div>
+      </aside>
+    </main>
+
+    <footer class="footer">
+      <small id="footerTxt">© In-Store Navigator — Demo</small>
+    </footer>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
