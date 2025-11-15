@@ -1,0 +1,5442 @@
+[
+    {
+        "name": "Milk (Brand A)",
+        "price": 166,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 260,
+        "y": 330
+    },
+    {
+        "name": "Milk (Brand B)",
+        "price": 94,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 368,
+        "y": 292
+    },
+    {
+        "name": "Milk (Brand C)",
+        "price": 91,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 295,
+        "y": 261
+    },
+    {
+        "name": "Milk (Brand D)",
+        "price": 288,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 280,
+        "y": 285
+    },
+    {
+        "name": "Milk (Brand E)",
+        "price": 254,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 115,
+        "y": 256
+    },
+    {
+        "name": "Milk (Brand F)",
+        "price": 441,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 139,
+        "y": 290
+    },
+    {
+        "name": "Milk (Brand G)",
+        "price": 46,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 191,
+        "y": 76
+    },
+    {
+        "name": "Milk (Brand H)",
+        "price": 441,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 292,
+        "y": 190
+    },
+    {
+        "name": "Milk (Brand I)",
+        "price": 292,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 139,
+        "y": 236
+    },
+    {
+        "name": "Milk (Brand J)",
+        "price": 269,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 192,
+        "y": 290
+    },
+    {
+        "name": "Bread (Brand A)",
+        "price": 163,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 370,
+        "y": 240
+    },
+    {
+        "name": "Bread (Brand B)",
+        "price": 263,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 261,
+        "y": 111
+    },
+    {
+        "name": "Bread (Brand C)",
+        "price": 328,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 354,
+        "y": 347
+    },
+    {
+        "name": "Bread (Brand D)",
+        "price": 368,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 117,
+        "y": 154
+    },
+    {
+        "name": "Bread (Brand E)",
+        "price": 371,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 138,
+        "y": 147
+    },
+    {
+        "name": "Bread (Brand F)",
+        "price": 89,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 257,
+        "y": 309
+    },
+    {
+        "name": "Bread (Brand G)",
+        "price": 496,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 298,
+        "y": 292
+    },
+    {
+        "name": "Bread (Brand H)",
+        "price": 167,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 437,
+        "y": 224
+    },
+    {
+        "name": "Bread (Brand I)",
+        "price": 400,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 411,
+        "y": 122
+    },
+    {
+        "name": "Bread (Brand J)",
+        "price": 437,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 362,
+        "y": 345
+    },
+    {
+        "name": "Eggs (Brand A)",
+        "price": 453,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 381,
+        "y": 53
+    },
+    {
+        "name": "Eggs (Brand B)",
+        "price": 116,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 493,
+        "y": 162
+    },
+    {
+        "name": "Eggs (Brand C)",
+        "price": 411,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 188,
+        "y": 86
+    },
+    {
+        "name": "Eggs (Brand D)",
+        "price": 262,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 206,
+        "y": 219
+    },
+    {
+        "name": "Eggs (Brand E)",
+        "price": 254,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 421,
+        "y": 280
+    },
+    {
+        "name": "Eggs (Brand F)",
+        "price": 22,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 474,
+        "y": 163
+    },
+    {
+        "name": "Eggs (Brand G)",
+        "price": 126,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 391,
+        "y": 63
+    },
+    {
+        "name": "Eggs (Brand H)",
+        "price": 209,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 346,
+        "y": 162
+    },
+    {
+        "name": "Eggs (Brand I)",
+        "price": 81,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 262,
+        "y": 140
+    },
+    {
+        "name": "Eggs (Brand J)",
+        "price": 375,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 431,
+        "y": 63
+    },
+    {
+        "name": "Rice (Brand A)",
+        "price": 138,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 146,
+        "y": 120
+    },
+    {
+        "name": "Rice (Brand B)",
+        "price": 39,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 159,
+        "y": 119
+    },
+    {
+        "name": "Rice (Brand C)",
+        "price": 327,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 154,
+        "y": 145
+    },
+    {
+        "name": "Rice (Brand D)",
+        "price": 188,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 375,
+        "y": 178
+    },
+    {
+        "name": "Rice (Brand E)",
+        "price": 103,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 378,
+        "y": 291
+    },
+    {
+        "name": "Rice (Brand F)",
+        "price": 123,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 308,
+        "y": 86
+    },
+    {
+        "name": "Rice (Brand G)",
+        "price": 392,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 100,
+        "y": 102
+    },
+    {
+        "name": "Rice (Brand H)",
+        "price": 472,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 401,
+        "y": 218
+    },
+    {
+        "name": "Rice (Brand I)",
+        "price": 410,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 217,
+        "y": 89
+    },
+    {
+        "name": "Rice (Brand J)",
+        "price": 187,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 158,
+        "y": 239
+    },
+    {
+        "name": "Oil (Brand A)",
+        "price": 270,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 273,
+        "y": 289
+    },
+    {
+        "name": "Oil (Brand B)",
+        "price": 183,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 309,
+        "y": 293
+    },
+    {
+        "name": "Oil (Brand C)",
+        "price": 176,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 402,
+        "y": 215
+    },
+    {
+        "name": "Oil (Brand D)",
+        "price": 123,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 452,
+        "y": 157
+    },
+    {
+        "name": "Oil (Brand E)",
+        "price": 95,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 476,
+        "y": 247
+    },
+    {
+        "name": "Oil (Brand F)",
+        "price": 483,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 333,
+        "y": 100
+    },
+    {
+        "name": "Oil (Brand G)",
+        "price": 274,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 429,
+        "y": 159
+    },
+    {
+        "name": "Oil (Brand H)",
+        "price": 282,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 498,
+        "y": 326
+    },
+    {
+        "name": "Oil (Brand I)",
+        "price": 148,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 349,
+        "y": 221
+    },
+    {
+        "name": "Oil (Brand J)",
+        "price": 63,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 438,
+        "y": 104
+    },
+    {
+        "name": "Soap (Brand A)",
+        "price": 456,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 374,
+        "y": 172
+    },
+    {
+        "name": "Soap (Brand B)",
+        "price": 192,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 468,
+        "y": 284
+    },
+    {
+        "name": "Soap (Brand C)",
+        "price": 251,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 216,
+        "y": 268
+    },
+    {
+        "name": "Soap (Brand D)",
+        "price": 448,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 256,
+        "y": 163
+    },
+    {
+        "name": "Soap (Brand E)",
+        "price": 345,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 451,
+        "y": 168
+    },
+    {
+        "name": "Soap (Brand F)",
+        "price": 398,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 239,
+        "y": 145
+    },
+    {
+        "name": "Soap (Brand G)",
+        "price": 47,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 239,
+        "y": 311
+    },
+    {
+        "name": "Soap (Brand H)",
+        "price": 218,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 132,
+        "y": 241
+    },
+    {
+        "name": "Soap (Brand I)",
+        "price": 233,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 353,
+        "y": 230
+    },
+    {
+        "name": "Soap (Brand J)",
+        "price": 104,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 490,
+        "y": 121
+    },
+    {
+        "name": "Shampoo (Brand A)",
+        "price": 418,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 170,
+        "y": 69
+    },
+    {
+        "name": "Shampoo (Brand B)",
+        "price": 388,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 357,
+        "y": 76
+    },
+    {
+        "name": "Shampoo (Brand C)",
+        "price": 292,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 457,
+        "y": 75
+    },
+    {
+        "name": "Shampoo (Brand D)",
+        "price": 99,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 477,
+        "y": 173
+    },
+    {
+        "name": "Shampoo (Brand E)",
+        "price": 70,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 147,
+        "y": 222
+    },
+    {
+        "name": "Shampoo (Brand F)",
+        "price": 366,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 213,
+        "y": 94
+    },
+    {
+        "name": "Shampoo (Brand G)",
+        "price": 294,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 350,
+        "y": 122
+    },
+    {
+        "name": "Shampoo (Brand H)",
+        "price": 349,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 166,
+        "y": 168
+    },
+    {
+        "name": "Shampoo (Brand I)",
+        "price": 290,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 201,
+        "y": 271
+    },
+    {
+        "name": "Shampoo (Brand J)",
+        "price": 41,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 229,
+        "y": 129
+    },
+    {
+        "name": "Chocolate (Brand A)",
+        "price": 344,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 298,
+        "y": 61
+    },
+    {
+        "name": "Chocolate (Brand B)",
+        "price": 268,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 316,
+        "y": 291
+    },
+    {
+        "name": "Chocolate (Brand C)",
+        "price": 149,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 264,
+        "y": 115
+    },
+    {
+        "name": "Chocolate (Brand D)",
+        "price": 360,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 183,
+        "y": 80
+    },
+    {
+        "name": "Chocolate (Brand E)",
+        "price": 183,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 453,
+        "y": 151
+    },
+    {
+        "name": "Chocolate (Brand F)",
+        "price": 225,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 168,
+        "y": 291
+    },
+    {
+        "name": "Chocolate (Brand G)",
+        "price": 96,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 452,
+        "y": 256
+    },
+    {
+        "name": "Chocolate (Brand H)",
+        "price": 149,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 488,
+        "y": 106
+    },
+    {
+        "name": "Chocolate (Brand I)",
+        "price": 203,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 142,
+        "y": 159
+    },
+    {
+        "name": "Chocolate (Brand J)",
+        "price": 492,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 392,
+        "y": 196
+    },
+    {
+        "name": "Biscuits (Brand A)",
+        "price": 305,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 369,
+        "y": 327
+    },
+    {
+        "name": "Biscuits (Brand B)",
+        "price": 205,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 444,
+        "y": 263
+    },
+    {
+        "name": "Biscuits (Brand C)",
+        "price": 413,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 212,
+        "y": 208
+    },
+    {
+        "name": "Biscuits (Brand D)",
+        "price": 226,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 290,
+        "y": 220
+    },
+    {
+        "name": "Biscuits (Brand E)",
+        "price": 82,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 165,
+        "y": 268
+    },
+    {
+        "name": "Biscuits (Brand F)",
+        "price": 467,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 124,
+        "y": 115
+    },
+    {
+        "name": "Biscuits (Brand G)",
+        "price": 457,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 189,
+        "y": 299
+    },
+    {
+        "name": "Biscuits (Brand H)",
+        "price": 141,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 450,
+        "y": 234
+    },
+    {
+        "name": "Biscuits (Brand I)",
+        "price": 71,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 302,
+        "y": 274
+    },
+    {
+        "name": "Biscuits (Brand J)",
+        "price": 164,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 171,
+        "y": 187
+    },
+    {
+        "name": "Juice (Brand A)",
+        "price": 115,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 240,
+        "y": 219
+    },
+    {
+        "name": "Juice (Brand B)",
+        "price": 36,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 458,
+        "y": 108
+    },
+    {
+        "name": "Juice (Brand C)",
+        "price": 196,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 301,
+        "y": 215
+    },
+    {
+        "name": "Juice (Brand D)",
+        "price": 418,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 326,
+        "y": 141
+    },
+    {
+        "name": "Juice (Brand E)",
+        "price": 489,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 303,
+        "y": 93
+    },
+    {
+        "name": "Juice (Brand F)",
+        "price": 498,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 361,
+        "y": 313
+    },
+    {
+        "name": "Juice (Brand G)",
+        "price": 220,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 196,
+        "y": 229
+    },
+    {
+        "name": "Juice (Brand H)",
+        "price": 167,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 442,
+        "y": 300
+    },
+    {
+        "name": "Juice (Brand I)",
+        "price": 303,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 149,
+        "y": 183
+    },
+    {
+        "name": "Juice (Brand J)",
+        "price": 313,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 169,
+        "y": 208
+    },
+    {
+        "name": "Detergent (Brand A)",
+        "price": 90,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 252,
+        "y": 162
+    },
+    {
+        "name": "Detergent (Brand B)",
+        "price": 424,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 323,
+        "y": 142
+    },
+    {
+        "name": "Detergent (Brand C)",
+        "price": 182,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 430,
+        "y": 283
+    },
+    {
+        "name": "Detergent (Brand D)",
+        "price": 210,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 485,
+        "y": 175
+    },
+    {
+        "name": "Detergent (Brand E)",
+        "price": 321,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 149,
+        "y": 230
+    },
+    {
+        "name": "Detergent (Brand F)",
+        "price": 443,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 147,
+        "y": 268
+    },
+    {
+        "name": "Detergent (Brand G)",
+        "price": 484,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 249,
+        "y": 176
+    },
+    {
+        "name": "Detergent (Brand H)",
+        "price": 272,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 286,
+        "y": 120
+    },
+    {
+        "name": "Detergent (Brand I)",
+        "price": 100,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 418,
+        "y": 232
+    },
+    {
+        "name": "Detergent (Brand J)",
+        "price": 250,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 310,
+        "y": 82
+    },
+    {
+        "name": "Tea (Brand A)",
+        "price": 141,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 318,
+        "y": 267
+    },
+    {
+        "name": "Tea (Brand B)",
+        "price": 173,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 484,
+        "y": 270
+    },
+    {
+        "name": "Tea (Brand C)",
+        "price": 202,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 445,
+        "y": 136
+    },
+    {
+        "name": "Tea (Brand D)",
+        "price": 202,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 215,
+        "y": 221
+    },
+    {
+        "name": "Tea (Brand E)",
+        "price": 261,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 429,
+        "y": 334
+    },
+    {
+        "name": "Tea (Brand F)",
+        "price": 489,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 184,
+        "y": 347
+    },
+    {
+        "name": "Tea (Brand G)",
+        "price": 173,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 227,
+        "y": 211
+    },
+    {
+        "name": "Tea (Brand H)",
+        "price": 366,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 151,
+        "y": 148
+    },
+    {
+        "name": "Tea (Brand I)",
+        "price": 391,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 162,
+        "y": 99
+    },
+    {
+        "name": "Tea (Brand J)",
+        "price": 454,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 233,
+        "y": 210
+    },
+    {
+        "name": "Coffee (Brand A)",
+        "price": 348,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 396,
+        "y": 193
+    },
+    {
+        "name": "Coffee (Brand B)",
+        "price": 364,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 367,
+        "y": 315
+    },
+    {
+        "name": "Coffee (Brand C)",
+        "price": 280,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 228,
+        "y": 218
+    },
+    {
+        "name": "Coffee (Brand D)",
+        "price": 263,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 332,
+        "y": 255
+    },
+    {
+        "name": "Coffee (Brand E)",
+        "price": 493,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 197,
+        "y": 156
+    },
+    {
+        "name": "Coffee (Brand F)",
+        "price": 443,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 304,
+        "y": 60
+    },
+    {
+        "name": "Coffee (Brand G)",
+        "price": 499,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 467,
+        "y": 156
+    },
+    {
+        "name": "Coffee (Brand H)",
+        "price": 186,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 138,
+        "y": 63
+    },
+    {
+        "name": "Coffee (Brand I)",
+        "price": 495,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 116,
+        "y": 162
+    },
+    {
+        "name": "Coffee (Brand J)",
+        "price": 350,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 242,
+        "y": 334
+    },
+    {
+        "name": "Sugar (Brand A)",
+        "price": 476,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 479,
+        "y": 314
+    },
+    {
+        "name": "Sugar (Brand B)",
+        "price": 229,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 405,
+        "y": 177
+    },
+    {
+        "name": "Sugar (Brand C)",
+        "price": 279,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 227,
+        "y": 210
+    },
+    {
+        "name": "Sugar (Brand D)",
+        "price": 442,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 169,
+        "y": 231
+    },
+    {
+        "name": "Sugar (Brand E)",
+        "price": 109,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 431,
+        "y": 183
+    },
+    {
+        "name": "Sugar (Brand F)",
+        "price": 342,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 350,
+        "y": 56
+    },
+    {
+        "name": "Sugar (Brand G)",
+        "price": 150,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 140,
+        "y": 255
+    },
+    {
+        "name": "Sugar (Brand H)",
+        "price": 92,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 257,
+        "y": 348
+    },
+    {
+        "name": "Sugar (Brand I)",
+        "price": 162,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 320,
+        "y": 322
+    },
+    {
+        "name": "Sugar (Brand J)",
+        "price": 74,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 187,
+        "y": 304
+    },
+    {
+        "name": "Salt (Brand A)",
+        "price": 473,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 351,
+        "y": 58
+    },
+    {
+        "name": "Salt (Brand B)",
+        "price": 155,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 180,
+        "y": 254
+    },
+    {
+        "name": "Salt (Brand C)",
+        "price": 474,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 177,
+        "y": 332
+    },
+    {
+        "name": "Salt (Brand D)",
+        "price": 410,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 340,
+        "y": 110
+    },
+    {
+        "name": "Salt (Brand E)",
+        "price": 241,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 400,
+        "y": 169
+    },
+    {
+        "name": "Salt (Brand F)",
+        "price": 152,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 112,
+        "y": 291
+    },
+    {
+        "name": "Salt (Brand G)",
+        "price": 48,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 320,
+        "y": 243
+    },
+    {
+        "name": "Salt (Brand H)",
+        "price": 381,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 195,
+        "y": 71
+    },
+    {
+        "name": "Salt (Brand I)",
+        "price": 139,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 329,
+        "y": 316
+    },
+    {
+        "name": "Salt (Brand J)",
+        "price": 142,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 321,
+        "y": 167
+    },
+    {
+        "name": "Flour (Brand A)",
+        "price": 495,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 471,
+        "y": 284
+    },
+    {
+        "name": "Flour (Brand B)",
+        "price": 252,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 110,
+        "y": 250
+    },
+    {
+        "name": "Flour (Brand C)",
+        "price": 403,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 366,
+        "y": 114
+    },
+    {
+        "name": "Flour (Brand D)",
+        "price": 177,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 316,
+        "y": 300
+    },
+    {
+        "name": "Flour (Brand E)",
+        "price": 245,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 260,
+        "y": 296
+    },
+    {
+        "name": "Flour (Brand F)",
+        "price": 22,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 338,
+        "y": 158
+    },
+    {
+        "name": "Flour (Brand G)",
+        "price": 230,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 246,
+        "y": 109
+    },
+    {
+        "name": "Flour (Brand H)",
+        "price": 364,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 115,
+        "y": 265
+    },
+    {
+        "name": "Flour (Brand I)",
+        "price": 401,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 141,
+        "y": 172
+    },
+    {
+        "name": "Flour (Brand J)",
+        "price": 78,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 178,
+        "y": 173
+    },
+    {
+        "name": "Pasta (Brand A)",
+        "price": 188,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 125,
+        "y": 179
+    },
+    {
+        "name": "Pasta (Brand B)",
+        "price": 437,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 302,
+        "y": 293
+    },
+    {
+        "name": "Pasta (Brand C)",
+        "price": 55,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 140,
+        "y": 194
+    },
+    {
+        "name": "Pasta (Brand D)",
+        "price": 312,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 457,
+        "y": 58
+    },
+    {
+        "name": "Pasta (Brand E)",
+        "price": 43,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 107,
+        "y": 312
+    },
+    {
+        "name": "Pasta (Brand F)",
+        "price": 325,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 375,
+        "y": 64
+    },
+    {
+        "name": "Pasta (Brand G)",
+        "price": 90,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 149,
+        "y": 253
+    },
+    {
+        "name": "Pasta (Brand H)",
+        "price": 273,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 412,
+        "y": 338
+    },
+    {
+        "name": "Pasta (Brand I)",
+        "price": 83,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 427,
+        "y": 112
+    },
+    {
+        "name": "Pasta (Brand J)",
+        "price": 399,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 121,
+        "y": 206
+    },
+    {
+        "name": "Noodles (Brand A)",
+        "price": 404,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 404,
+        "y": 133
+    },
+    {
+        "name": "Noodles (Brand B)",
+        "price": 431,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 117,
+        "y": 216
+    },
+    {
+        "name": "Noodles (Brand C)",
+        "price": 356,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 132,
+        "y": 212
+    },
+    {
+        "name": "Noodles (Brand D)",
+        "price": 236,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 472,
+        "y": 212
+    },
+    {
+        "name": "Noodles (Brand E)",
+        "price": 112,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 284,
+        "y": 134
+    },
+    {
+        "name": "Noodles (Brand F)",
+        "price": 255,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 116,
+        "y": 339
+    },
+    {
+        "name": "Noodles (Brand G)",
+        "price": 214,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 377,
+        "y": 161
+    },
+    {
+        "name": "Noodles (Brand H)",
+        "price": 304,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 200,
+        "y": 68
+    },
+    {
+        "name": "Noodles (Brand I)",
+        "price": 162,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 261,
+        "y": 207
+    },
+    {
+        "name": "Noodles (Brand J)",
+        "price": 393,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 431,
+        "y": 250
+    },
+    {
+        "name": "Chips (Brand A)",
+        "price": 405,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 149,
+        "y": 116
+    },
+    {
+        "name": "Chips (Brand B)",
+        "price": 326,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 454,
+        "y": 138
+    },
+    {
+        "name": "Chips (Brand C)",
+        "price": 323,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 140,
+        "y": 205
+    },
+    {
+        "name": "Chips (Brand D)",
+        "price": 40,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 442,
+        "y": 274
+    },
+    {
+        "name": "Chips (Brand E)",
+        "price": 24,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 341,
+        "y": 240
+    },
+    {
+        "name": "Chips (Brand F)",
+        "price": 90,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 120,
+        "y": 226
+    },
+    {
+        "name": "Chips (Brand G)",
+        "price": 410,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 318,
+        "y": 64
+    },
+    {
+        "name": "Chips (Brand H)",
+        "price": 152,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 311,
+        "y": 332
+    },
+    {
+        "name": "Chips (Brand I)",
+        "price": 180,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 408,
+        "y": 331
+    },
+    {
+        "name": "Chips (Brand J)",
+        "price": 222,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 310,
+        "y": 206
+    },
+    {
+        "name": "Butter (Brand A)",
+        "price": 295,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 129,
+        "y": 347
+    },
+    {
+        "name": "Butter (Brand B)",
+        "price": 233,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 164,
+        "y": 318
+    },
+    {
+        "name": "Butter (Brand C)",
+        "price": 425,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 168,
+        "y": 332
+    },
+    {
+        "name": "Butter (Brand D)",
+        "price": 294,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 303,
+        "y": 197
+    },
+    {
+        "name": "Butter (Brand E)",
+        "price": 279,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 165,
+        "y": 251
+    },
+    {
+        "name": "Butter (Brand F)",
+        "price": 178,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 210,
+        "y": 164
+    },
+    {
+        "name": "Butter (Brand G)",
+        "price": 270,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 292,
+        "y": 196
+    },
+    {
+        "name": "Butter (Brand H)",
+        "price": 256,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 390,
+        "y": 79
+    },
+    {
+        "name": "Butter (Brand I)",
+        "price": 474,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 374,
+        "y": 338
+    },
+    {
+        "name": "Butter (Brand J)",
+        "price": 491,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 368,
+        "y": 143
+    },
+    {
+        "name": "Cheese (Brand A)",
+        "price": 42,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 127,
+        "y": 218
+    },
+    {
+        "name": "Cheese (Brand B)",
+        "price": 436,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 335,
+        "y": 203
+    },
+    {
+        "name": "Cheese (Brand C)",
+        "price": 334,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 329,
+        "y": 153
+    },
+    {
+        "name": "Cheese (Brand D)",
+        "price": 400,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 432,
+        "y": 275
+    },
+    {
+        "name": "Cheese (Brand E)",
+        "price": 84,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 347,
+        "y": 238
+    },
+    {
+        "name": "Cheese (Brand F)",
+        "price": 189,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 382,
+        "y": 259
+    },
+    {
+        "name": "Cheese (Brand G)",
+        "price": 419,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 312,
+        "y": 259
+    },
+    {
+        "name": "Cheese (Brand H)",
+        "price": 393,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 330,
+        "y": 114
+    },
+    {
+        "name": "Cheese (Brand I)",
+        "price": 230,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 235,
+        "y": 143
+    },
+    {
+        "name": "Cheese (Brand J)",
+        "price": 178,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 119,
+        "y": 122
+    },
+    {
+        "name": "Curd (Brand A)",
+        "price": 106,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 275,
+        "y": 346
+    },
+    {
+        "name": "Curd (Brand B)",
+        "price": 96,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 142,
+        "y": 211
+    },
+    {
+        "name": "Curd (Brand C)",
+        "price": 138,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 390,
+        "y": 242
+    },
+    {
+        "name": "Curd (Brand D)",
+        "price": 372,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 177,
+        "y": 287
+    },
+    {
+        "name": "Curd (Brand E)",
+        "price": 306,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 304,
+        "y": 207
+    },
+    {
+        "name": "Curd (Brand F)",
+        "price": 376,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 213,
+        "y": 151
+    },
+    {
+        "name": "Curd (Brand G)",
+        "price": 58,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 434,
+        "y": 141
+    },
+    {
+        "name": "Curd (Brand H)",
+        "price": 166,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 333,
+        "y": 281
+    },
+    {
+        "name": "Curd (Brand I)",
+        "price": 401,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 417,
+        "y": 162
+    },
+    {
+        "name": "Curd (Brand J)",
+        "price": 427,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 435,
+        "y": 147
+    },
+    {
+        "name": "Paneer (Brand A)",
+        "price": 179,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 293,
+        "y": 307
+    },
+    {
+        "name": "Paneer (Brand B)",
+        "price": 83,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 329,
+        "y": 211
+    },
+    {
+        "name": "Paneer (Brand C)",
+        "price": 39,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 116,
+        "y": 101
+    },
+    {
+        "name": "Paneer (Brand D)",
+        "price": 142,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 445,
+        "y": 144
+    },
+    {
+        "name": "Paneer (Brand E)",
+        "price": 45,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 292,
+        "y": 144
+    },
+    {
+        "name": "Paneer (Brand F)",
+        "price": 253,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 489,
+        "y": 329
+    },
+    {
+        "name": "Paneer (Brand G)",
+        "price": 136,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 457,
+        "y": 198
+    },
+    {
+        "name": "Paneer (Brand H)",
+        "price": 451,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 492,
+        "y": 131
+    },
+    {
+        "name": "Paneer (Brand I)",
+        "price": 389,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 209,
+        "y": 215
+    },
+    {
+        "name": "Paneer (Brand J)",
+        "price": 452,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 187,
+        "y": 326
+    },
+    {
+        "name": "Ketchup (Brand A)",
+        "price": 168,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 346,
+        "y": 228
+    },
+    {
+        "name": "Ketchup (Brand B)",
+        "price": 407,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 316,
+        "y": 90
+    },
+    {
+        "name": "Ketchup (Brand C)",
+        "price": 446,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 350,
+        "y": 115
+    },
+    {
+        "name": "Ketchup (Brand D)",
+        "price": 401,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 456,
+        "y": 214
+    },
+    {
+        "name": "Ketchup (Brand E)",
+        "price": 47,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 220,
+        "y": 320
+    },
+    {
+        "name": "Ketchup (Brand F)",
+        "price": 245,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 351,
+        "y": 263
+    },
+    {
+        "name": "Ketchup (Brand G)",
+        "price": 44,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 312,
+        "y": 99
+    },
+    {
+        "name": "Ketchup (Brand H)",
+        "price": 323,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 265,
+        "y": 241
+    },
+    {
+        "name": "Ketchup (Brand I)",
+        "price": 376,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 428,
+        "y": 233
+    },
+    {
+        "name": "Ketchup (Brand J)",
+        "price": 345,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 346,
+        "y": 349
+    },
+    {
+        "name": "Sauce (Brand A)",
+        "price": 280,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 325,
+        "y": 267
+    },
+    {
+        "name": "Sauce (Brand B)",
+        "price": 118,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 191,
+        "y": 343
+    },
+    {
+        "name": "Sauce (Brand C)",
+        "price": 308,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 215,
+        "y": 274
+    },
+    {
+        "name": "Sauce (Brand D)",
+        "price": 197,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 458,
+        "y": 168
+    },
+    {
+        "name": "Sauce (Brand E)",
+        "price": 290,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 486,
+        "y": 73
+    },
+    {
+        "name": "Sauce (Brand F)",
+        "price": 271,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 415,
+        "y": 313
+    },
+    {
+        "name": "Sauce (Brand G)",
+        "price": 315,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 383,
+        "y": 236
+    },
+    {
+        "name": "Sauce (Brand H)",
+        "price": 191,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 130,
+        "y": 161
+    },
+    {
+        "name": "Sauce (Brand I)",
+        "price": 207,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 263,
+        "y": 134
+    },
+    {
+        "name": "Sauce (Brand J)",
+        "price": 200,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 450,
+        "y": 303
+    },
+    {
+        "name": "Spices (Brand A)",
+        "price": 60,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 163,
+        "y": 230
+    },
+    {
+        "name": "Spices (Brand B)",
+        "price": 42,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 164,
+        "y": 151
+    },
+    {
+        "name": "Spices (Brand C)",
+        "price": 159,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 395,
+        "y": 224
+    },
+    {
+        "name": "Spices (Brand D)",
+        "price": 282,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 455,
+        "y": 187
+    },
+    {
+        "name": "Spices (Brand E)",
+        "price": 332,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 393,
+        "y": 309
+    },
+    {
+        "name": "Spices (Brand F)",
+        "price": 413,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 214,
+        "y": 160
+    },
+    {
+        "name": "Spices (Brand G)",
+        "price": 453,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 231,
+        "y": 301
+    },
+    {
+        "name": "Spices (Brand H)",
+        "price": 239,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 446,
+        "y": 68
+    },
+    {
+        "name": "Spices (Brand I)",
+        "price": 293,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 355,
+        "y": 56
+    },
+    {
+        "name": "Spices (Brand J)",
+        "price": 449,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 200,
+        "y": 203
+    },
+    {
+        "name": "Cookies (Brand A)",
+        "price": 203,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 158,
+        "y": 214
+    },
+    {
+        "name": "Cookies (Brand B)",
+        "price": 256,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 125,
+        "y": 105
+    },
+    {
+        "name": "Cookies (Brand C)",
+        "price": 494,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 113,
+        "y": 315
+    },
+    {
+        "name": "Cookies (Brand D)",
+        "price": 405,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 177,
+        "y": 106
+    },
+    {
+        "name": "Cookies (Brand E)",
+        "price": 284,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 131,
+        "y": 242
+    },
+    {
+        "name": "Cookies (Brand F)",
+        "price": 37,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 104,
+        "y": 78
+    },
+    {
+        "name": "Cookies (Brand G)",
+        "price": 120,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 173,
+        "y": 330
+    },
+    {
+        "name": "Cookies (Brand H)",
+        "price": 136,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 146,
+        "y": 100
+    },
+    {
+        "name": "Cookies (Brand I)",
+        "price": 490,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 439,
+        "y": 197
+    },
+    {
+        "name": "Cookies (Brand J)",
+        "price": 459,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 468,
+        "y": 67
+    },
+    {
+        "name": "Wheat (Brand A)",
+        "price": 132,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 256,
+        "y": 280
+    },
+    {
+        "name": "Wheat (Brand B)",
+        "price": 168,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 396,
+        "y": 339
+    },
+    {
+        "name": "Wheat (Brand C)",
+        "price": 442,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 171,
+        "y": 264
+    },
+    {
+        "name": "Wheat (Brand D)",
+        "price": 236,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 484,
+        "y": 300
+    },
+    {
+        "name": "Wheat (Brand E)",
+        "price": 209,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 386,
+        "y": 310
+    },
+    {
+        "name": "Wheat (Brand F)",
+        "price": 480,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 471,
+        "y": 162
+    },
+    {
+        "name": "Wheat (Brand G)",
+        "price": 62,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 478,
+        "y": 312
+    },
+    {
+        "name": "Wheat (Brand H)",
+        "price": 37,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 459,
+        "y": 313
+    },
+    {
+        "name": "Wheat (Brand I)",
+        "price": 127,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 368,
+        "y": 59
+    },
+    {
+        "name": "Wheat (Brand J)",
+        "price": 350,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 238,
+        "y": 168
+    },
+    {
+        "name": "Dal (Brand A)",
+        "price": 151,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 147,
+        "y": 201
+    },
+    {
+        "name": "Dal (Brand B)",
+        "price": 73,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 153,
+        "y": 281
+    },
+    {
+        "name": "Dal (Brand C)",
+        "price": 98,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 351,
+        "y": 222
+    },
+    {
+        "name": "Dal (Brand D)",
+        "price": 39,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 293,
+        "y": 82
+    },
+    {
+        "name": "Dal (Brand E)",
+        "price": 278,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 223,
+        "y": 336
+    },
+    {
+        "name": "Dal (Brand F)",
+        "price": 464,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 267,
+        "y": 332
+    },
+    {
+        "name": "Dal (Brand G)",
+        "price": 150,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 493,
+        "y": 77
+    },
+    {
+        "name": "Dal (Brand H)",
+        "price": 360,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 122,
+        "y": 115
+    },
+    {
+        "name": "Dal (Brand I)",
+        "price": 225,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 150,
+        "y": 246
+    },
+    {
+        "name": "Dal (Brand J)",
+        "price": 499,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 212,
+        "y": 328
+    },
+    {
+        "name": "Lentils (Brand A)",
+        "price": 369,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 186,
+        "y": 81
+    },
+    {
+        "name": "Lentils (Brand B)",
+        "price": 218,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 228,
+        "y": 61
+    },
+    {
+        "name": "Lentils (Brand C)",
+        "price": 92,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 188,
+        "y": 165
+    },
+    {
+        "name": "Lentils (Brand D)",
+        "price": 173,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 234,
+        "y": 188
+    },
+    {
+        "name": "Lentils (Brand E)",
+        "price": 189,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 330,
+        "y": 257
+    },
+    {
+        "name": "Lentils (Brand F)",
+        "price": 458,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 249,
+        "y": 188
+    },
+    {
+        "name": "Lentils (Brand G)",
+        "price": 483,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 275,
+        "y": 268
+    },
+    {
+        "name": "Lentils (Brand H)",
+        "price": 145,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 430,
+        "y": 305
+    },
+    {
+        "name": "Lentils (Brand I)",
+        "price": 424,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 415,
+        "y": 93
+    },
+    {
+        "name": "Lentils (Brand J)",
+        "price": 169,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 101,
+        "y": 130
+    },
+    {
+        "name": "Beans (Brand A)",
+        "price": 411,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 314,
+        "y": 68
+    },
+    {
+        "name": "Beans (Brand B)",
+        "price": 110,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 317,
+        "y": 263
+    },
+    {
+        "name": "Beans (Brand C)",
+        "price": 406,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 153,
+        "y": 297
+    },
+    {
+        "name": "Beans (Brand D)",
+        "price": 185,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 271,
+        "y": 52
+    },
+    {
+        "name": "Beans (Brand E)",
+        "price": 175,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 421,
+        "y": 82
+    },
+    {
+        "name": "Beans (Brand F)",
+        "price": 205,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 439,
+        "y": 64
+    },
+    {
+        "name": "Beans (Brand G)",
+        "price": 467,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 146,
+        "y": 169
+    },
+    {
+        "name": "Beans (Brand H)",
+        "price": 181,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 375,
+        "y": 264
+    },
+    {
+        "name": "Beans (Brand I)",
+        "price": 44,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 370,
+        "y": 126
+    },
+    {
+        "name": "Beans (Brand J)",
+        "price": 343,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 436,
+        "y": 241
+    },
+    {
+        "name": "Soft Drink (Brand A)",
+        "price": 62,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 195,
+        "y": 51
+    },
+    {
+        "name": "Soft Drink (Brand B)",
+        "price": 462,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 493,
+        "y": 311
+    },
+    {
+        "name": "Soft Drink (Brand C)",
+        "price": 78,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 263,
+        "y": 258
+    },
+    {
+        "name": "Soft Drink (Brand D)",
+        "price": 499,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 259,
+        "y": 113
+    },
+    {
+        "name": "Soft Drink (Brand E)",
+        "price": 400,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 217,
+        "y": 164
+    },
+    {
+        "name": "Soft Drink (Brand F)",
+        "price": 296,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 278,
+        "y": 192
+    },
+    {
+        "name": "Soft Drink (Brand G)",
+        "price": 500,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 199,
+        "y": 206
+    },
+    {
+        "name": "Soft Drink (Brand H)",
+        "price": 104,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 427,
+        "y": 56
+    },
+    {
+        "name": "Soft Drink (Brand I)",
+        "price": 217,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 135,
+        "y": 246
+    },
+    {
+        "name": "Soft Drink (Brand J)",
+        "price": 374,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 221,
+        "y": 298
+    },
+    {
+        "name": "Water Bottle (Brand A)",
+        "price": 297,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 185,
+        "y": 126
+    },
+    {
+        "name": "Water Bottle (Brand B)",
+        "price": 206,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 490,
+        "y": 304
+    },
+    {
+        "name": "Water Bottle (Brand C)",
+        "price": 247,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 108,
+        "y": 257
+    },
+    {
+        "name": "Water Bottle (Brand D)",
+        "price": 192,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 416,
+        "y": 288
+    },
+    {
+        "name": "Water Bottle (Brand E)",
+        "price": 61,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 413,
+        "y": 233
+    },
+    {
+        "name": "Water Bottle (Brand F)",
+        "price": 190,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 167,
+        "y": 93
+    },
+    {
+        "name": "Water Bottle (Brand G)",
+        "price": 265,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 137,
+        "y": 243
+    },
+    {
+        "name": "Water Bottle (Brand H)",
+        "price": 118,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 193,
+        "y": 240
+    },
+    {
+        "name": "Water Bottle (Brand I)",
+        "price": 432,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 166,
+        "y": 197
+    },
+    {
+        "name": "Water Bottle (Brand J)",
+        "price": 199,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 497,
+        "y": 268
+    },
+    {
+        "name": "Snacks (Brand A)",
+        "price": 392,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 409,
+        "y": 310
+    },
+    {
+        "name": "Snacks (Brand B)",
+        "price": 443,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 384,
+        "y": 99
+    },
+    {
+        "name": "Snacks (Brand C)",
+        "price": 240,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 320,
+        "y": 183
+    },
+    {
+        "name": "Snacks (Brand D)",
+        "price": 63,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 245,
+        "y": 139
+    },
+    {
+        "name": "Snacks (Brand E)",
+        "price": 485,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 333,
+        "y": 294
+    },
+    {
+        "name": "Snacks (Brand F)",
+        "price": 442,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 459,
+        "y": 190
+    },
+    {
+        "name": "Snacks (Brand G)",
+        "price": 238,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 464,
+        "y": 255
+    },
+    {
+        "name": "Snacks (Brand H)",
+        "price": 93,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 121,
+        "y": 141
+    },
+    {
+        "name": "Snacks (Brand I)",
+        "price": 294,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 382,
+        "y": 193
+    },
+    {
+        "name": "Snacks (Brand J)",
+        "price": 375,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 392,
+        "y": 210
+    },
+    {
+        "name": "Cereal (Brand A)",
+        "price": 76,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 190,
+        "y": 261
+    },
+    {
+        "name": "Cereal (Brand B)",
+        "price": 230,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 434,
+        "y": 311
+    },
+    {
+        "name": "Cereal (Brand C)",
+        "price": 264,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 170,
+        "y": 224
+    },
+    {
+        "name": "Cereal (Brand D)",
+        "price": 94,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 203,
+        "y": 336
+    },
+    {
+        "name": "Cereal (Brand E)",
+        "price": 381,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 291,
+        "y": 98
+    },
+    {
+        "name": "Cereal (Brand F)",
+        "price": 53,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 296,
+        "y": 227
+    },
+    {
+        "name": "Cereal (Brand G)",
+        "price": 289,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 105,
+        "y": 53
+    },
+    {
+        "name": "Cereal (Brand H)",
+        "price": 114,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 373,
+        "y": 199
+    },
+    {
+        "name": "Cereal (Brand I)",
+        "price": 299,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 320,
+        "y": 299
+    },
+    {
+        "name": "Cereal (Brand J)",
+        "price": 217,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 400,
+        "y": 245
+    },
+    {
+        "name": "Oats (Brand A)",
+        "price": 186,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 130,
+        "y": 53
+    },
+    {
+        "name": "Oats (Brand B)",
+        "price": 372,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 383,
+        "y": 115
+    },
+    {
+        "name": "Oats (Brand C)",
+        "price": 230,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 284,
+        "y": 230
+    },
+    {
+        "name": "Oats (Brand D)",
+        "price": 394,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 470,
+        "y": 74
+    },
+    {
+        "name": "Oats (Brand E)",
+        "price": 389,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 339,
+        "y": 111
+    },
+    {
+        "name": "Oats (Brand F)",
+        "price": 23,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 436,
+        "y": 275
+    },
+    {
+        "name": "Oats (Brand G)",
+        "price": 90,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 145,
+        "y": 342
+    },
+    {
+        "name": "Oats (Brand H)",
+        "price": 363,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 494,
+        "y": 308
+    },
+    {
+        "name": "Oats (Brand I)",
+        "price": 456,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 239,
+        "y": 158
+    },
+    {
+        "name": "Oats (Brand J)",
+        "price": 175,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 441,
+        "y": 144
+    },
+    {
+        "name": "Dry Fruits (Brand A)",
+        "price": 382,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 460,
+        "y": 58
+    },
+    {
+        "name": "Dry Fruits (Brand B)",
+        "price": 231,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 307,
+        "y": 165
+    },
+    {
+        "name": "Dry Fruits (Brand C)",
+        "price": 327,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 205,
+        "y": 160
+    },
+    {
+        "name": "Dry Fruits (Brand D)",
+        "price": 265,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 433,
+        "y": 264
+    },
+    {
+        "name": "Dry Fruits (Brand E)",
+        "price": 201,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 312,
+        "y": 123
+    },
+    {
+        "name": "Dry Fruits (Brand F)",
+        "price": 465,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 276,
+        "y": 107
+    },
+    {
+        "name": "Dry Fruits (Brand G)",
+        "price": 24,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 326,
+        "y": 97
+    },
+    {
+        "name": "Dry Fruits (Brand H)",
+        "price": 218,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 132,
+        "y": 199
+    },
+    {
+        "name": "Dry Fruits (Brand I)",
+        "price": 387,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 221,
+        "y": 253
+    },
+    {
+        "name": "Dry Fruits (Brand J)",
+        "price": 317,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 214,
+        "y": 158
+    },
+    {
+        "name": "Fruits (Brand A)",
+        "price": 185,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 450,
+        "y": 348
+    },
+    {
+        "name": "Fruits (Brand B)",
+        "price": 259,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 462,
+        "y": 50
+    },
+    {
+        "name": "Fruits (Brand C)",
+        "price": 265,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 112,
+        "y": 138
+    },
+    {
+        "name": "Fruits (Brand D)",
+        "price": 234,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 119,
+        "y": 243
+    },
+    {
+        "name": "Fruits (Brand E)",
+        "price": 217,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 320,
+        "y": 310
+    },
+    {
+        "name": "Fruits (Brand F)",
+        "price": 418,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 157,
+        "y": 167
+    },
+    {
+        "name": "Fruits (Brand G)",
+        "price": 461,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 341,
+        "y": 124
+    },
+    {
+        "name": "Fruits (Brand H)",
+        "price": 421,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 270,
+        "y": 59
+    },
+    {
+        "name": "Fruits (Brand I)",
+        "price": 488,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 157,
+        "y": 136
+    },
+    {
+        "name": "Fruits (Brand J)",
+        "price": 493,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 144,
+        "y": 202
+    },
+    {
+        "name": "Vegetables (Brand A)",
+        "price": 376,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 103,
+        "y": 91
+    },
+    {
+        "name": "Vegetables (Brand B)",
+        "price": 460,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 363,
+        "y": 222
+    },
+    {
+        "name": "Vegetables (Brand C)",
+        "price": 46,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 416,
+        "y": 338
+    },
+    {
+        "name": "Vegetables (Brand D)",
+        "price": 58,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 283,
+        "y": 202
+    },
+    {
+        "name": "Vegetables (Brand E)",
+        "price": 433,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 333,
+        "y": 318
+    },
+    {
+        "name": "Vegetables (Brand F)",
+        "price": 118,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 441,
+        "y": 80
+    },
+    {
+        "name": "Vegetables (Brand G)",
+        "price": 293,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 203,
+        "y": 164
+    },
+    {
+        "name": "Vegetables (Brand H)",
+        "price": 228,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 231,
+        "y": 158
+    },
+    {
+        "name": "Vegetables (Brand I)",
+        "price": 82,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 436,
+        "y": 337
+    },
+    {
+        "name": "Vegetables (Brand J)",
+        "price": 201,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 398,
+        "y": 307
+    },
+    {
+        "name": "Ice Cream (Brand A)",
+        "price": 311,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 177,
+        "y": 252
+    },
+    {
+        "name": "Ice Cream (Brand B)",
+        "price": 45,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 462,
+        "y": 85
+    },
+    {
+        "name": "Ice Cream (Brand C)",
+        "price": 86,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 156,
+        "y": 113
+    },
+    {
+        "name": "Ice Cream (Brand D)",
+        "price": 454,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 371,
+        "y": 249
+    },
+    {
+        "name": "Ice Cream (Brand E)",
+        "price": 382,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 271,
+        "y": 182
+    },
+    {
+        "name": "Ice Cream (Brand F)",
+        "price": 247,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 290,
+        "y": 75
+    },
+    {
+        "name": "Ice Cream (Brand G)",
+        "price": 220,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 420,
+        "y": 259
+    },
+    {
+        "name": "Ice Cream (Brand H)",
+        "price": 349,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 306,
+        "y": 312
+    },
+    {
+        "name": "Ice Cream (Brand I)",
+        "price": 46,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 334,
+        "y": 150
+    },
+    {
+        "name": "Ice Cream (Brand J)",
+        "price": 21,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 338,
+        "y": 168
+    },
+    {
+        "name": "Yogurt (Brand A)",
+        "price": 377,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 191,
+        "y": 118
+    },
+    {
+        "name": "Yogurt (Brand B)",
+        "price": 294,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 172,
+        "y": 186
+    },
+    {
+        "name": "Yogurt (Brand C)",
+        "price": 324,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 469,
+        "y": 344
+    },
+    {
+        "name": "Yogurt (Brand D)",
+        "price": 102,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 445,
+        "y": 104
+    },
+    {
+        "name": "Yogurt (Brand E)",
+        "price": 45,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 369,
+        "y": 296
+    },
+    {
+        "name": "Yogurt (Brand F)",
+        "price": 368,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 189,
+        "y": 80
+    },
+    {
+        "name": "Yogurt (Brand G)",
+        "price": 118,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 192,
+        "y": 124
+    },
+    {
+        "name": "Yogurt (Brand H)",
+        "price": 257,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 150,
+        "y": 100
+    },
+    {
+        "name": "Yogurt (Brand I)",
+        "price": 379,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 331,
+        "y": 333
+    },
+    {
+        "name": "Yogurt (Brand J)",
+        "price": 243,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 389,
+        "y": 295
+    },
+    {
+        "name": "Soap Bar (Brand A)",
+        "price": 412,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 107,
+        "y": 304
+    },
+    {
+        "name": "Soap Bar (Brand B)",
+        "price": 288,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 359,
+        "y": 81
+    },
+    {
+        "name": "Soap Bar (Brand C)",
+        "price": 238,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 346,
+        "y": 193
+    },
+    {
+        "name": "Soap Bar (Brand D)",
+        "price": 372,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 331,
+        "y": 328
+    },
+    {
+        "name": "Soap Bar (Brand E)",
+        "price": 97,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 353,
+        "y": 51
+    },
+    {
+        "name": "Soap Bar (Brand F)",
+        "price": 347,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 238,
+        "y": 336
+    },
+    {
+        "name": "Soap Bar (Brand G)",
+        "price": 59,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 113,
+        "y": 58
+    },
+    {
+        "name": "Soap Bar (Brand H)",
+        "price": 130,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 104,
+        "y": 153
+    },
+    {
+        "name": "Soap Bar (Brand I)",
+        "price": 348,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 269,
+        "y": 284
+    },
+    {
+        "name": "Soap Bar (Brand J)",
+        "price": 499,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 342,
+        "y": 99
+    },
+    {
+        "name": "Handwash (Brand A)",
+        "price": 338,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 432,
+        "y": 171
+    },
+    {
+        "name": "Handwash (Brand B)",
+        "price": 100,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 120,
+        "y": 80
+    },
+    {
+        "name": "Handwash (Brand C)",
+        "price": 318,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 195,
+        "y": 92
+    },
+    {
+        "name": "Handwash (Brand D)",
+        "price": 255,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 369,
+        "y": 281
+    },
+    {
+        "name": "Handwash (Brand E)",
+        "price": 299,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 442,
+        "y": 330
+    },
+    {
+        "name": "Handwash (Brand F)",
+        "price": 328,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 395,
+        "y": 113
+    },
+    {
+        "name": "Handwash (Brand G)",
+        "price": 195,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 389,
+        "y": 335
+    },
+    {
+        "name": "Handwash (Brand H)",
+        "price": 316,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 362,
+        "y": 105
+    },
+    {
+        "name": "Handwash (Brand I)",
+        "price": 292,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 336,
+        "y": 133
+    },
+    {
+        "name": "Handwash (Brand J)",
+        "price": 418,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 477,
+        "y": 196
+    },
+    {
+        "name": "Toothpaste (Brand A)",
+        "price": 130,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 442,
+        "y": 252
+    },
+    {
+        "name": "Toothpaste (Brand B)",
+        "price": 360,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 119,
+        "y": 282
+    },
+    {
+        "name": "Toothpaste (Brand C)",
+        "price": 93,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 426,
+        "y": 271
+    },
+    {
+        "name": "Toothpaste (Brand D)",
+        "price": 308,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 179,
+        "y": 73
+    },
+    {
+        "name": "Toothpaste (Brand E)",
+        "price": 203,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 370,
+        "y": 194
+    },
+    {
+        "name": "Toothpaste (Brand F)",
+        "price": 309,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 225,
+        "y": 313
+    },
+    {
+        "name": "Toothpaste (Brand G)",
+        "price": 44,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 374,
+        "y": 311
+    },
+    {
+        "name": "Toothpaste (Brand H)",
+        "price": 53,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 288,
+        "y": 190
+    },
+    {
+        "name": "Toothpaste (Brand I)",
+        "price": 481,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 103,
+        "y": 229
+    },
+    {
+        "name": "Toothpaste (Brand J)",
+        "price": 445,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 195,
+        "y": 288
+    },
+    {
+        "name": "Toothbrush (Brand A)",
+        "price": 194,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 136,
+        "y": 232
+    },
+    {
+        "name": "Toothbrush (Brand B)",
+        "price": 199,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 428,
+        "y": 71
+    },
+    {
+        "name": "Toothbrush (Brand C)",
+        "price": 358,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 320,
+        "y": 234
+    },
+    {
+        "name": "Toothbrush (Brand D)",
+        "price": 159,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 468,
+        "y": 102
+    },
+    {
+        "name": "Toothbrush (Brand E)",
+        "price": 354,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 200,
+        "y": 159
+    },
+    {
+        "name": "Toothbrush (Brand F)",
+        "price": 364,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 140,
+        "y": 298
+    },
+    {
+        "name": "Toothbrush (Brand G)",
+        "price": 496,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 160,
+        "y": 307
+    },
+    {
+        "name": "Toothbrush (Brand H)",
+        "price": 237,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 206,
+        "y": 247
+    },
+    {
+        "name": "Toothbrush (Brand I)",
+        "price": 392,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 193,
+        "y": 277
+    },
+    {
+        "name": "Toothbrush (Brand J)",
+        "price": 288,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 498,
+        "y": 197
+    },
+    {
+        "name": "Shaving Cream (Brand A)",
+        "price": 500,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 386,
+        "y": 285
+    },
+    {
+        "name": "Shaving Cream (Brand B)",
+        "price": 225,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 279,
+        "y": 295
+    },
+    {
+        "name": "Shaving Cream (Brand C)",
+        "price": 460,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 324,
+        "y": 285
+    },
+    {
+        "name": "Shaving Cream (Brand D)",
+        "price": 137,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 232,
+        "y": 273
+    },
+    {
+        "name": "Shaving Cream (Brand E)",
+        "price": 66,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 334,
+        "y": 73
+    },
+    {
+        "name": "Shaving Cream (Brand F)",
+        "price": 462,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 315,
+        "y": 190
+    },
+    {
+        "name": "Shaving Cream (Brand G)",
+        "price": 345,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 365,
+        "y": 93
+    },
+    {
+        "name": "Shaving Cream (Brand H)",
+        "price": 122,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 421,
+        "y": 292
+    },
+    {
+        "name": "Shaving Cream (Brand I)",
+        "price": 253,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 337,
+        "y": 189
+    },
+    {
+        "name": "Shaving Cream (Brand J)",
+        "price": 262,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 207,
+        "y": 149
+    },
+    {
+        "name": "Facewash (Brand A)",
+        "price": 318,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 424,
+        "y": 71
+    },
+    {
+        "name": "Facewash (Brand B)",
+        "price": 159,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 132,
+        "y": 220
+    },
+    {
+        "name": "Facewash (Brand C)",
+        "price": 203,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 388,
+        "y": 94
+    },
+    {
+        "name": "Facewash (Brand D)",
+        "price": 323,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 359,
+        "y": 116
+    },
+    {
+        "name": "Facewash (Brand E)",
+        "price": 374,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 492,
+        "y": 284
+    },
+    {
+        "name": "Facewash (Brand F)",
+        "price": 334,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 319,
+        "y": 170
+    },
+    {
+        "name": "Facewash (Brand G)",
+        "price": 120,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 335,
+        "y": 187
+    },
+    {
+        "name": "Facewash (Brand H)",
+        "price": 319,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 340,
+        "y": 284
+    },
+    {
+        "name": "Facewash (Brand I)",
+        "price": 352,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 422,
+        "y": 215
+    },
+    {
+        "name": "Facewash (Brand J)",
+        "price": 92,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 331,
+        "y": 341
+    },
+    {
+        "name": "Moisturizer (Brand A)",
+        "price": 198,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 215,
+        "y": 286
+    },
+    {
+        "name": "Moisturizer (Brand B)",
+        "price": 402,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 270,
+        "y": 55
+    },
+    {
+        "name": "Moisturizer (Brand C)",
+        "price": 345,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 307,
+        "y": 54
+    },
+    {
+        "name": "Moisturizer (Brand D)",
+        "price": 31,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 331,
+        "y": 66
+    },
+    {
+        "name": "Moisturizer (Brand E)",
+        "price": 92,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 137,
+        "y": 171
+    },
+    {
+        "name": "Moisturizer (Brand F)",
+        "price": 261,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 114,
+        "y": 131
+    },
+    {
+        "name": "Moisturizer (Brand G)",
+        "price": 305,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 446,
+        "y": 319
+    },
+    {
+        "name": "Moisturizer (Brand H)",
+        "price": 482,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 127,
+        "y": 53
+    },
+    {
+        "name": "Moisturizer (Brand I)",
+        "price": 437,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 343,
+        "y": 197
+    },
+    {
+        "name": "Moisturizer (Brand J)",
+        "price": 321,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 151,
+        "y": 268
+    },
+    {
+        "name": "Hair Oil (Brand A)",
+        "price": 461,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 343,
+        "y": 169
+    },
+    {
+        "name": "Hair Oil (Brand B)",
+        "price": 35,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 498,
+        "y": 218
+    },
+    {
+        "name": "Hair Oil (Brand C)",
+        "price": 332,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 288,
+        "y": 57
+    },
+    {
+        "name": "Hair Oil (Brand D)",
+        "price": 233,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 275,
+        "y": 307
+    },
+    {
+        "name": "Hair Oil (Brand E)",
+        "price": 251,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 464,
+        "y": 84
+    },
+    {
+        "name": "Hair Oil (Brand F)",
+        "price": 457,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 224,
+        "y": 155
+    },
+    {
+        "name": "Hair Oil (Brand G)",
+        "price": 200,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 242,
+        "y": 290
+    },
+    {
+        "name": "Hair Oil (Brand H)",
+        "price": 89,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 451,
+        "y": 63
+    },
+    {
+        "name": "Hair Oil (Brand I)",
+        "price": 219,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 226,
+        "y": 268
+    },
+    {
+        "name": "Hair Oil (Brand J)",
+        "price": 472,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 400,
+        "y": 264
+    },
+    {
+        "name": "Body Lotion (Brand A)",
+        "price": 187,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 195,
+        "y": 110
+    },
+    {
+        "name": "Body Lotion (Brand B)",
+        "price": 301,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 488,
+        "y": 236
+    },
+    {
+        "name": "Body Lotion (Brand C)",
+        "price": 478,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 306,
+        "y": 242
+    },
+    {
+        "name": "Body Lotion (Brand D)",
+        "price": 186,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 255,
+        "y": 231
+    },
+    {
+        "name": "Body Lotion (Brand E)",
+        "price": 165,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 461,
+        "y": 191
+    },
+    {
+        "name": "Body Lotion (Brand F)",
+        "price": 239,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 158,
+        "y": 158
+    },
+    {
+        "name": "Body Lotion (Brand G)",
+        "price": 224,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 309,
+        "y": 288
+    },
+    {
+        "name": "Body Lotion (Brand H)",
+        "price": 157,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 212,
+        "y": 60
+    },
+    {
+        "name": "Body Lotion (Brand I)",
+        "price": 261,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 157,
+        "y": 147
+    },
+    {
+        "name": "Body Lotion (Brand J)",
+        "price": 243,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 489,
+        "y": 52
+    },
+    {
+        "name": "Perfume (Brand A)",
+        "price": 93,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 364,
+        "y": 168
+    },
+    {
+        "name": "Perfume (Brand B)",
+        "price": 346,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 263,
+        "y": 256
+    },
+    {
+        "name": "Perfume (Brand C)",
+        "price": 363,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 249,
+        "y": 244
+    },
+    {
+        "name": "Perfume (Brand D)",
+        "price": 106,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 488,
+        "y": 311
+    },
+    {
+        "name": "Perfume (Brand E)",
+        "price": 276,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 386,
+        "y": 189
+    },
+    {
+        "name": "Perfume (Brand F)",
+        "price": 378,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 379,
+        "y": 246
+    },
+    {
+        "name": "Perfume (Brand G)",
+        "price": 36,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 273,
+        "y": 237
+    },
+    {
+        "name": "Perfume (Brand H)",
+        "price": 205,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 437,
+        "y": 157
+    },
+    {
+        "name": "Perfume (Brand I)",
+        "price": 381,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 102,
+        "y": 167
+    },
+    {
+        "name": "Perfume (Brand J)",
+        "price": 352,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 375,
+        "y": 196
+    },
+    {
+        "name": "Deodorant (Brand A)",
+        "price": 242,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 192,
+        "y": 164
+    },
+    {
+        "name": "Deodorant (Brand B)",
+        "price": 333,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 252,
+        "y": 141
+    },
+    {
+        "name": "Deodorant (Brand C)",
+        "price": 339,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 175,
+        "y": 230
+    },
+    {
+        "name": "Deodorant (Brand D)",
+        "price": 456,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 168,
+        "y": 252
+    },
+    {
+        "name": "Deodorant (Brand E)",
+        "price": 33,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 196,
+        "y": 258
+    },
+    {
+        "name": "Deodorant (Brand F)",
+        "price": 469,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 408,
+        "y": 158
+    },
+    {
+        "name": "Deodorant (Brand G)",
+        "price": 217,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 199,
+        "y": 265
+    },
+    {
+        "name": "Deodorant (Brand H)",
+        "price": 33,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 155,
+        "y": 113
+    },
+    {
+        "name": "Deodorant (Brand I)",
+        "price": 313,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 276,
+        "y": 284
+    },
+    {
+        "name": "Deodorant (Brand J)",
+        "price": 404,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 399,
+        "y": 317
+    },
+    {
+        "name": "Bisleri (Brand A)",
+        "price": 273,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 436,
+        "y": 211
+    },
+    {
+        "name": "Bisleri (Brand B)",
+        "price": 181,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 128,
+        "y": 102
+    },
+    {
+        "name": "Bisleri (Brand C)",
+        "price": 287,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 106,
+        "y": 252
+    },
+    {
+        "name": "Bisleri (Brand D)",
+        "price": 111,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 396,
+        "y": 172
+    },
+    {
+        "name": "Bisleri (Brand E)",
+        "price": 444,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 409,
+        "y": 246
+    },
+    {
+        "name": "Bisleri (Brand F)",
+        "price": 351,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 184,
+        "y": 218
+    },
+    {
+        "name": "Bisleri (Brand G)",
+        "price": 43,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 157,
+        "y": 185
+    },
+    {
+        "name": "Bisleri (Brand H)",
+        "price": 480,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 253,
+        "y": 290
+    },
+    {
+        "name": "Bisleri (Brand I)",
+        "price": 395,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 174,
+        "y": 89
+    },
+    {
+        "name": "Bisleri (Brand J)",
+        "price": 298,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 172,
+        "y": 335
+    },
+    {
+        "name": "Energy Drink (Brand A)",
+        "price": 247,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 334,
+        "y": 190
+    },
+    {
+        "name": "Energy Drink (Brand B)",
+        "price": 369,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 269,
+        "y": 187
+    },
+    {
+        "name": "Energy Drink (Brand C)",
+        "price": 27,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 252,
+        "y": 138
+    },
+    {
+        "name": "Energy Drink (Brand D)",
+        "price": 288,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 320,
+        "y": 67
+    },
+    {
+        "name": "Energy Drink (Brand E)",
+        "price": 53,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 467,
+        "y": 123
+    },
+    {
+        "name": "Energy Drink (Brand F)",
+        "price": 107,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 169,
+        "y": 212
+    },
+    {
+        "name": "Energy Drink (Brand G)",
+        "price": 372,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 331,
+        "y": 121
+    },
+    {
+        "name": "Energy Drink (Brand H)",
+        "price": 149,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 343,
+        "y": 81
+    },
+    {
+        "name": "Energy Drink (Brand I)",
+        "price": 312,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 499,
+        "y": 229
+    },
+    {
+        "name": "Energy Drink (Brand J)",
+        "price": 448,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 435,
+        "y": 203
+    },
+    {
+        "name": "Energy Bar (Brand A)",
+        "price": 472,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 408,
+        "y": 290
+    },
+    {
+        "name": "Energy Bar (Brand B)",
+        "price": 228,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 182,
+        "y": 57
+    },
+    {
+        "name": "Energy Bar (Brand C)",
+        "price": 499,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 454,
+        "y": 137
+    },
+    {
+        "name": "Energy Bar (Brand D)",
+        "price": 20,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 301,
+        "y": 79
+    },
+    {
+        "name": "Energy Bar (Brand E)",
+        "price": 427,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 315,
+        "y": 58
+    },
+    {
+        "name": "Energy Bar (Brand F)",
+        "price": 362,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 378,
+        "y": 168
+    },
+    {
+        "name": "Energy Bar (Brand G)",
+        "price": 474,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 368,
+        "y": 221
+    },
+    {
+        "name": "Energy Bar (Brand H)",
+        "price": 113,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 144,
+        "y": 88
+    },
+    {
+        "name": "Energy Bar (Brand I)",
+        "price": 228,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 335,
+        "y": 150
+    },
+    {
+        "name": "Energy Bar (Brand J)",
+        "price": 143,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 287,
+        "y": 110
+    },
+    {
+        "name": "Soup (Brand A)",
+        "price": 369,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 379,
+        "y": 136
+    },
+    {
+        "name": "Soup (Brand B)",
+        "price": 323,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 146,
+        "y": 255
+    },
+    {
+        "name": "Soup (Brand C)",
+        "price": 270,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 153,
+        "y": 181
+    },
+    {
+        "name": "Soup (Brand D)",
+        "price": 306,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 141,
+        "y": 183
+    },
+    {
+        "name": "Soup (Brand E)",
+        "price": 61,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 194,
+        "y": 153
+    },
+    {
+        "name": "Soup (Brand F)",
+        "price": 374,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 480,
+        "y": 234
+    },
+    {
+        "name": "Soup (Brand G)",
+        "price": 197,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 182,
+        "y": 272
+    },
+    {
+        "name": "Soup (Brand H)",
+        "price": 480,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 360,
+        "y": 300
+    },
+    {
+        "name": "Soup (Brand I)",
+        "price": 346,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 307,
+        "y": 338
+    },
+    {
+        "name": "Soup (Brand J)",
+        "price": 209,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 179,
+        "y": 213
+    },
+    {
+        "name": "Pickle (Brand A)",
+        "price": 317,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 121,
+        "y": 257
+    },
+    {
+        "name": "Pickle (Brand B)",
+        "price": 46,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 132,
+        "y": 138
+    },
+    {
+        "name": "Pickle (Brand C)",
+        "price": 37,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 205,
+        "y": 332
+    },
+    {
+        "name": "Pickle (Brand D)",
+        "price": 373,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 399,
+        "y": 281
+    },
+    {
+        "name": "Pickle (Brand E)",
+        "price": 482,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 465,
+        "y": 181
+    },
+    {
+        "name": "Pickle (Brand F)",
+        "price": 360,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 358,
+        "y": 342
+    },
+    {
+        "name": "Pickle (Brand G)",
+        "price": 27,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 292,
+        "y": 228
+    },
+    {
+        "name": "Pickle (Brand H)",
+        "price": 383,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 353,
+        "y": 152
+    },
+    {
+        "name": "Pickle (Brand I)",
+        "price": 70,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 263,
+        "y": 336
+    },
+    {
+        "name": "Pickle (Brand J)",
+        "price": 335,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 143,
+        "y": 102
+    },
+    {
+        "name": "Honey (Brand A)",
+        "price": 454,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 161,
+        "y": 60
+    },
+    {
+        "name": "Honey (Brand B)",
+        "price": 310,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 206,
+        "y": 57
+    },
+    {
+        "name": "Honey (Brand C)",
+        "price": 85,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 444,
+        "y": 76
+    },
+    {
+        "name": "Honey (Brand D)",
+        "price": 460,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 376,
+        "y": 57
+    },
+    {
+        "name": "Honey (Brand E)",
+        "price": 359,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 481,
+        "y": 283
+    },
+    {
+        "name": "Honey (Brand F)",
+        "price": 134,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 247,
+        "y": 200
+    },
+    {
+        "name": "Honey (Brand G)",
+        "price": 455,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 247,
+        "y": 185
+    },
+    {
+        "name": "Honey (Brand H)",
+        "price": 493,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 355,
+        "y": 87
+    },
+    {
+        "name": "Honey (Brand I)",
+        "price": 147,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 208,
+        "y": 281
+    },
+    {
+        "name": "Honey (Brand J)",
+        "price": 179,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 139,
+        "y": 100
+    },
+    {
+        "name": "Jam (Brand A)",
+        "price": 39,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 182,
+        "y": 199
+    },
+    {
+        "name": "Jam (Brand B)",
+        "price": 368,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 208,
+        "y": 319
+    },
+    {
+        "name": "Jam (Brand C)",
+        "price": 227,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 103,
+        "y": 239
+    },
+    {
+        "name": "Jam (Brand D)",
+        "price": 463,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 284,
+        "y": 132
+    },
+    {
+        "name": "Jam (Brand E)",
+        "price": 31,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 475,
+        "y": 156
+    },
+    {
+        "name": "Jam (Brand F)",
+        "price": 152,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 463,
+        "y": 91
+    },
+    {
+        "name": "Jam (Brand G)",
+        "price": 46,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 409,
+        "y": 281
+    },
+    {
+        "name": "Jam (Brand H)",
+        "price": 105,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 344,
+        "y": 242
+    },
+    {
+        "name": "Jam (Brand I)",
+        "price": 331,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 230,
+        "y": 221
+    },
+    {
+        "name": "Jam (Brand J)",
+        "price": 245,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 162,
+        "y": 291
+    },
+    {
+        "name": "Vinegar (Brand A)",
+        "price": 27,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 385,
+        "y": 72
+    },
+    {
+        "name": "Vinegar (Brand B)",
+        "price": 285,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 377,
+        "y": 342
+    },
+    {
+        "name": "Vinegar (Brand C)",
+        "price": 120,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 194,
+        "y": 151
+    },
+    {
+        "name": "Vinegar (Brand D)",
+        "price": 164,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 388,
+        "y": 137
+    },
+    {
+        "name": "Vinegar (Brand E)",
+        "price": 439,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 432,
+        "y": 242
+    },
+    {
+        "name": "Vinegar (Brand F)",
+        "price": 439,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 223,
+        "y": 153
+    },
+    {
+        "name": "Vinegar (Brand G)",
+        "price": 218,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 110,
+        "y": 79
+    },
+    {
+        "name": "Vinegar (Brand H)",
+        "price": 261,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 336,
+        "y": 307
+    },
+    {
+        "name": "Vinegar (Brand I)",
+        "price": 172,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 345,
+        "y": 229
+    },
+    {
+        "name": "Vinegar (Brand J)",
+        "price": 156,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 274,
+        "y": 187
+    },
+    {
+        "name": "Soda (Brand A)",
+        "price": 347,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 178,
+        "y": 239
+    },
+    {
+        "name": "Soda (Brand B)",
+        "price": 428,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 374,
+        "y": 58
+    },
+    {
+        "name": "Soda (Brand C)",
+        "price": 397,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 386,
+        "y": 308
+    },
+    {
+        "name": "Soda (Brand D)",
+        "price": 107,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 111,
+        "y": 242
+    },
+    {
+        "name": "Soda (Brand E)",
+        "price": 258,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 219,
+        "y": 172
+    },
+    {
+        "name": "Soda (Brand F)",
+        "price": 361,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 289,
+        "y": 238
+    },
+    {
+        "name": "Soda (Brand G)",
+        "price": 349,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 140,
+        "y": 248
+    },
+    {
+        "name": "Soda (Brand H)",
+        "price": 38,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 112,
+        "y": 157
+    },
+    {
+        "name": "Soda (Brand I)",
+        "price": 76,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 449,
+        "y": 192
+    },
+    {
+        "name": "Soda (Brand J)",
+        "price": 57,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 233,
+        "y": 319
+    },
+    {
+        "name": "Brown Bread (Brand A)",
+        "price": 343,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 230,
+        "y": 87
+    },
+    {
+        "name": "Brown Bread (Brand B)",
+        "price": 270,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 347,
+        "y": 77
+    },
+    {
+        "name": "Brown Bread (Brand C)",
+        "price": 410,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 279,
+        "y": 89
+    },
+    {
+        "name": "Brown Bread (Brand D)",
+        "price": 173,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 160,
+        "y": 126
+    },
+    {
+        "name": "Brown Bread (Brand E)",
+        "price": 49,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 101,
+        "y": 95
+    },
+    {
+        "name": "Brown Bread (Brand F)",
+        "price": 345,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 480,
+        "y": 261
+    },
+    {
+        "name": "Brown Bread (Brand G)",
+        "price": 453,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 331,
+        "y": 139
+    },
+    {
+        "name": "Brown Bread (Brand H)",
+        "price": 480,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 378,
+        "y": 207
+    },
+    {
+        "name": "Brown Bread (Brand I)",
+        "price": 393,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 352,
+        "y": 172
+    },
+    {
+        "name": "Brown Bread (Brand J)",
+        "price": 460,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 310,
+        "y": 196
+    },
+    {
+        "name": "White Bread (Brand A)",
+        "price": 51,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 290,
+        "y": 295
+    },
+    {
+        "name": "White Bread (Brand B)",
+        "price": 407,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 181,
+        "y": 264
+    },
+    {
+        "name": "White Bread (Brand C)",
+        "price": 348,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 128,
+        "y": 164
+    },
+    {
+        "name": "White Bread (Brand D)",
+        "price": 470,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 500,
+        "y": 94
+    },
+    {
+        "name": "White Bread (Brand E)",
+        "price": 396,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 451,
+        "y": 149
+    },
+    {
+        "name": "White Bread (Brand F)",
+        "price": 356,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 314,
+        "y": 280
+    },
+    {
+        "name": "White Bread (Brand G)",
+        "price": 313,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 320,
+        "y": 160
+    },
+    {
+        "name": "White Bread (Brand H)",
+        "price": 342,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 197,
+        "y": 326
+    },
+    {
+        "name": "White Bread (Brand I)",
+        "price": 86,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 374,
+        "y": 321
+    },
+    {
+        "name": "White Bread (Brand J)",
+        "price": 150,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 280,
+        "y": 200
+    },
+    {
+        "name": "Basmati Rice (Brand A)",
+        "price": 321,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 498,
+        "y": 304
+    },
+    {
+        "name": "Basmati Rice (Brand B)",
+        "price": 468,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 457,
+        "y": 61
+    },
+    {
+        "name": "Basmati Rice (Brand C)",
+        "price": 215,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 490,
+        "y": 195
+    },
+    {
+        "name": "Basmati Rice (Brand D)",
+        "price": 254,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 250,
+        "y": 246
+    },
+    {
+        "name": "Basmati Rice (Brand E)",
+        "price": 467,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 367,
+        "y": 176
+    },
+    {
+        "name": "Basmati Rice (Brand F)",
+        "price": 222,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 328,
+        "y": 60
+    },
+    {
+        "name": "Basmati Rice (Brand G)",
+        "price": 443,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 137,
+        "y": 184
+    },
+    {
+        "name": "Basmati Rice (Brand H)",
+        "price": 236,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 418,
+        "y": 342
+    },
+    {
+        "name": "Basmati Rice (Brand I)",
+        "price": 453,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 472,
+        "y": 184
+    },
+    {
+        "name": "Basmati Rice (Brand J)",
+        "price": 296,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 194,
+        "y": 256
+    },
+    {
+        "name": "Poha (Brand A)",
+        "price": 68,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 358,
+        "y": 261
+    },
+    {
+        "name": "Poha (Brand B)",
+        "price": 72,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 215,
+        "y": 283
+    },
+    {
+        "name": "Poha (Brand C)",
+        "price": 78,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 483,
+        "y": 303
+    },
+    {
+        "name": "Poha (Brand D)",
+        "price": 243,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 180,
+        "y": 142
+    },
+    {
+        "name": "Poha (Brand E)",
+        "price": 458,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 133,
+        "y": 81
+    },
+    {
+        "name": "Poha (Brand F)",
+        "price": 47,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 192,
+        "y": 200
+    },
+    {
+        "name": "Poha (Brand G)",
+        "price": 279,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 474,
+        "y": 326
+    },
+    {
+        "name": "Poha (Brand H)",
+        "price": 62,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 402,
+        "y": 73
+    },
+    {
+        "name": "Poha (Brand I)",
+        "price": 153,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 329,
+        "y": 101
+    },
+    {
+        "name": "Poha (Brand J)",
+        "price": 397,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 244,
+        "y": 101
+    },
+    {
+        "name": "Corn Flakes (Brand A)",
+        "price": 233,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 233,
+        "y": 267
+    },
+    {
+        "name": "Corn Flakes (Brand B)",
+        "price": 42,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 131,
+        "y": 201
+    },
+    {
+        "name": "Corn Flakes (Brand C)",
+        "price": 286,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 108,
+        "y": 319
+    },
+    {
+        "name": "Corn Flakes (Brand D)",
+        "price": 352,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 487,
+        "y": 62
+    },
+    {
+        "name": "Corn Flakes (Brand E)",
+        "price": 316,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 242,
+        "y": 205
+    },
+    {
+        "name": "Corn Flakes (Brand F)",
+        "price": 135,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 101,
+        "y": 293
+    },
+    {
+        "name": "Corn Flakes (Brand G)",
+        "price": 166,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 268,
+        "y": 324
+    },
+    {
+        "name": "Corn Flakes (Brand H)",
+        "price": 275,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 147,
+        "y": 274
+    },
+    {
+        "name": "Corn Flakes (Brand I)",
+        "price": 243,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 393,
+        "y": 61
+    },
+    {
+        "name": "Corn Flakes (Brand J)",
+        "price": 233,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 194,
+        "y": 201
+    },
+    {
+        "name": "Green Tea (Brand A)",
+        "price": 210,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 395,
+        "y": 166
+    },
+    {
+        "name": "Green Tea (Brand B)",
+        "price": 326,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 323,
+        "y": 279
+    },
+    {
+        "name": "Green Tea (Brand C)",
+        "price": 251,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 397,
+        "y": 152
+    },
+    {
+        "name": "Green Tea (Brand D)",
+        "price": 112,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 335,
+        "y": 86
+    },
+    {
+        "name": "Green Tea (Brand E)",
+        "price": 364,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 410,
+        "y": 319
+    },
+    {
+        "name": "Green Tea (Brand F)",
+        "price": 471,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 267,
+        "y": 249
+    },
+    {
+        "name": "Green Tea (Brand G)",
+        "price": 166,
+        "stock": "In Stock",
+        "floor": 3,
+        "x": 370,
+        "y": 168
+    },
+    {
+        "name": "Green Tea (Brand H)",
+        "price": 497,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 176,
+        "y": 135
+    },
+    {
+        "name": "Green Tea (Brand I)",
+        "price": 64,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 447,
+        "y": 133
+    },
+    {
+        "name": "Green Tea (Brand J)",
+        "price": 242,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 132,
+        "y": 248
+    },
+    {
+        "name": "Black Tea (Brand A)",
+        "price": 360,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 200,
+        "y": 294
+    },
+    {
+        "name": "Black Tea (Brand B)",
+        "price": 494,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 127,
+        "y": 207
+    },
+    {
+        "name": "Black Tea (Brand C)",
+        "price": 219,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 321,
+        "y": 72
+    },
+    {
+        "name": "Black Tea (Brand D)",
+        "price": 263,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 278,
+        "y": 155
+    },
+    {
+        "name": "Black Tea (Brand E)",
+        "price": 497,
+        "stock": "Out of Stock",
+        "floor": 3,
+        "x": 389,
+        "y": 294
+    },
+    {
+        "name": "Black Tea (Brand F)",
+        "price": 421,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 305,
+        "y": 211
+    },
+    {
+        "name": "Black Tea (Brand G)",
+        "price": 440,
+        "stock": "In Stock",
+        "floor": 2,
+        "x": 451,
+        "y": 223
+    },
+    {
+        "name": "Black Tea (Brand H)",
+        "price": 433,
+        "stock": "Out of Stock",
+        "floor": 1,
+        "x": 107,
+        "y": 74
+    },
+    {
+        "name": "Black Tea (Brand I)",
+        "price": 169,
+        "stock": "Out of Stock",
+        "floor": 2,
+        "x": 498,
+        "y": 165
+    },
+    {
+        "name": "Black Tea (Brand J)",
+        "price": 230,
+        "stock": "In Stock",
+        "floor": 1,
+        "x": 414,
+        "y": 60
+    }
+]
